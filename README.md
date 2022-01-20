@@ -36,8 +36,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 <ul>
- <li>-I had some routing issues that were resolved with the help of CodePath TA's</li>
- <li>-I made sure to take extensive notes on the Swift tutoril before writing any lines of code</li>
+ <li>I had some routing issues that were resolved with the help of CodePath TA's</li>
+ <li>I made sure to take extensive notes on the Swift tutoril before writing any lines of code</li>
 </ul>
 
 ## License
