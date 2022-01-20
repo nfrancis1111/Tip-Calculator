@@ -24,7 +24,6 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
 - [x] User can split the bill by the number of people on the order
 
 ## Video Walkthrough
@@ -37,8 +36,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-I had some routing issues that were resolved with the help of CodePath TA's
+-I had some routing issues that were resolved with the help of CodePath TA's
+-I made sure to take extensive notes on the Swift tutoril before writing any lines of code
 
 ## License
 
