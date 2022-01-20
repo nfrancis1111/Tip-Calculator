@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/Vm1MPYiXLV' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/nfrancis1111/Tip-Calculator/blob/main/calculatorRecord.gif)
 
 GIF created with [Recordit](https://recordit.co/).
 
